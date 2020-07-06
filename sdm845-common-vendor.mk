@@ -91,15 +91,15 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sdm845-common/proprietary/lib64/vendor.qti.hardware.data.latency@1.0.so:system/lib64/vendor.qti.hardware.data.latency@1.0.so \
     vendor/oneplus/sdm845-common/proprietary/lib64/vendor.qti.imsrtpservice@1.0.so:system/lib64/vendor.qti.imsrtpservice@1.0.so
 
-PRODUCT_PACKAGES += \
-    libantradio \
-    NxpNfcNci \
-    NxpSecureElement \
-    QtiTelephonyService \
-    CNEService \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    dashd
+#PRODUCT_PACKAGES += \
+#    libantradio \
+#    NxpNfcNci \
+#    NxpSecureElement \
+#    QtiTelephonyService \
+#    CNEService \
+#    HotwordEnrollmentOKGoogleWCD9340 \
+#    HotwordEnrollmentXGoogleWCD9340 \
+#    dpmserviceapp \
+#    ims \
+#    qcrilmsgtunnel \
+#    dashd
